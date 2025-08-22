@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+*.env
+myenv/
+
+
+# Django
+db.sqlite3
+*.log
+
+# Virtual environments
+venv/
+env/
+ENV/
+*.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Static/media (optional if auto-generated)
+staticfiles/
+media/
